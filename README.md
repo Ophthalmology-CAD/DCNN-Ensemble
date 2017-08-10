@@ -19,11 +19,12 @@ make runtest
 make pycaffe
 ```
 * Download the pre-trained. 
-alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）
+
+    alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）
  
-googlenet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet）
+    googlenet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet）
  
-ResNet-50 model:（https://github.com/KaimingHe/deep-residual-networks#models）
+    ResNet-50 model:（https://github.com/KaimingHe/deep-residual-networks#models）
 * Run the train_alexnet_finetuning.sh in in the terminal window to train the alexnet model
 ```
 cd $ROOT
