@@ -14,7 +14,7 @@ make pycaffe
 ```
 * Download the pre-trained model. 
 
-    alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-alex
+    alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-alex
  
     googlenet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-googlenet
  
