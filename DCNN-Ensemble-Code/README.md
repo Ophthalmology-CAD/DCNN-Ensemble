@@ -14,11 +14,11 @@ make pycaffe
 ```
 * Download the pre-trained model. 
 
-    alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-alex
+    alexnet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet）,put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-alex;
  
-    googlenet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-googlenet
+    googlenet model:（https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet）,put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-googlenet;
  
-    ResNet-50 model:（https://github.com/KaimingHe/deep-residual-networks#models）, put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-ResNet-50
+    ResNet-50 model:（https://github.com/KaimingHe/deep-residual-networks#models）,put it in $ROOT/DCNN-Ensemble-Code/myself/slitlamp-fine-ResNet-50;
 * Run the train_alexnet_finetuning.sh in in the terminal window to train the alexnet model
 ```
 cd $ROOT
